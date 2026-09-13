@@ -68,8 +68,8 @@ function initApp() {
       title: 'Green Terraces Interiors',
       category: 'Renevation',
       categoryLabel: 'Luxury Residential Interiors',
-      area: 'Bespoke Residence',
-      client: 'Bejgam Residence',
+      area: '2500 Sq. Ft',
+      client: 'Suhas',
       location: 'kondapur, Hyderabad',
       leadImage: 'GreenTerraces/greenterraces1.png',
       galleryImages: [
