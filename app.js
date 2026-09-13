@@ -17,7 +17,7 @@ function initApp() {
       id: 'the-soul-foods',
       title: 'The Soul Foods',
       category: 'commercial',
-      categoryLabel: 'Commercial/Retail',
+      categoryLabel: 'Commercials',
       area: '1810 Sq.Ft',
       client: 'The Soul Foods',
       location: 'Nagole, Hyderabad',
@@ -39,11 +39,11 @@ function initApp() {
     {
       id: 'residential-green-building',
       title: 'Vega Charge',
-      category: 'residential',
+      category: 'Commercial / Architecutre',
       categoryLabel: 'Sustainable Villa Compound',
-      area: '8,400 Sq.Ft',
+      area: '19800 Sq.Ft',
       client: 'Private Atelier Client',
-      location: 'Aspen, CO',
+      location: 'Narketpally, Telangana',
       leadImage: 'vega.png',
       galleryImages: [
         'Vega/Untitled-1 copy.jpg.jpeg',
@@ -66,11 +66,11 @@ function initApp() {
     {
       id: 'green-terraces-interiors',
       title: 'Green Terraces Interiors',
-      category: 'residential',
+      category: 'Renevation',
       categoryLabel: 'Luxury Residential Interiors',
       area: 'Bespoke Residence',
       client: 'Bejgam Residence',
-      location: 'Khanapur, Hyderabad',
+      location: 'kondapur, Hyderabad',
       leadImage: 'GreenTerraces/greenterraces1.png',
       galleryImages: [
         'GreenTerraces/Drawing Room - View 1.png',
@@ -97,9 +97,9 @@ function initApp() {
       title: 'Thrdspace Studio',
       category: 'commercial',
       categoryLabel: 'Architecture & Creative Studio',
-      area: 'Bespoke Studio Pavilion',
+      area: '540 Sq.Ft',
       client: 'Thrdspace',
-      location: 'Hyderabad, India',
+      location: 'Jubilee hills, Hyderabad, India',
       leadImage: 'ThrdspaceStudio/thrdspace1.jpeg',
       galleryImages: [
         'ThrdspaceStudio/View 01.jpeg',
@@ -368,7 +368,7 @@ function initApp() {
 
   // ==========================================
   // 6. PROJECT MODAL / CASE STUDY VIEW
-  // ==========================================
+  // ==========================================f
   function openProjectModal(projectId) {
     if (!projectId) return;
     const clean = decodeURIComponent(projectId).trim().toLowerCase();
