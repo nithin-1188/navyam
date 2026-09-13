@@ -368,7 +368,7 @@ function initApp() {
 
   // ==========================================
   // 6. PROJECT MODAL / CASE STUDY VIEW
-  // ==========================================f
+  // ==========================================
   function openProjectModal(projectId) {
     if (!projectId) return;
     const clean = decodeURIComponent(projectId).trim().toLowerCase();
