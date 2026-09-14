@@ -18,7 +18,7 @@ function initApp() {
       title: 'The Soul Foods',
       category: 'commercial',
       categoryLabel: 'Commercials',
-      area: '1810 Sq.Ft',
+      area: '2000 Sq.Ft',
       client: 'The Soul Foods',
       location: 'Nagole, Hyderabad',
       leadImage: 'SoulFoods/soulfoods1.png',
@@ -39,10 +39,10 @@ function initApp() {
     {
       id: 'residential-green-building',
       title: 'Vega Charge',
-      category: 'Commercial / Architecutre',
-      categoryLabel: 'Sustainable Villa Compound',
+      category: 'commercial',
+      categoryLabel: 'Commercial / Retail ',
       area: '19800 Sq.Ft',
-      client: 'Private Atelier Client',
+      client: 'Abhilash Gali, Pretham Kantala',
       location: 'Narketpally, Telangana',
       leadImage: 'vega.png',
       galleryImages: [
@@ -61,16 +61,16 @@ function initApp() {
         'Vega/ChatGPT Image Aug 31, 2026, 09_12_48 AM.png',
         'Vega/ChatGPT Image Aug 31, 2026, 09_18_17 AM.png'
       ],
-      description: 'Crafted with charred timber cladding, local granite masonry, and triple-glazed thermal curtain walls, the Residential Green Building achieves Net-Zero energy status. The internal zoning adjusts dynamically between winter solar trapping and summer cross-breeze chimney ventilation, delivering extraordinary comfort with zero environmental compromise.'
+      description: 'A EV charging station designed as a modern hub, combining functionality with a bold and recognisable architectural identity.The design focuses on efficient vehicle movement, intuitive charging bays, and comfortable user-oriented spaces while integrating strong branding throughout.Clean geometry, integrated lighting, and a sleek material palette create a futuristic yet approachable environment for the next generation of mobility.'
     },
     {
       id: 'green-terraces-interiors',
-      title: 'Green Terraces Interiors',
-      category: 'Renevation',
-      categoryLabel: 'Luxury Residential Interiors',
+      title: 'Green Terraces',
+      category: 'residential',
+      categoryLabel: 'Residential Interiors',
       area: '2500 Sq. Ft',
-      client: 'Suhas',
-      location: 'kondapur, Hyderabad',
+      client: 'Suhas D',
+      location: 'Kondapur, Hyderabad',
       leadImage: 'GreenTerraces/greenterraces1.png',
       galleryImages: [
         'GreenTerraces/Drawing Room - View 1.png',
@@ -90,16 +90,16 @@ function initApp() {
         'GreenTerraces/Jusu Room - View 2.png',
         'GreenTerraces/Jusu Room - View 3.png'
       ],
-      description: 'Conceived for the Bejgam family in Green Terraces, Khanapur, Hyderabad, this bespoke residential interior seamlessly merges contemporary warmth, organic textures, and tailored spatial articulation. Featuring curated drawing atriums, harmonious living and dining sanctuaries, and private bedroom suites, each zone balances refined minimalism with intimate tactile comfort.'
+      description: 'Green Terraces, Kondapur, Hyderabad, this bespoke residential interior seamlessly merges contemporary warmth, organic textures, and tailored spatial articulation. Featuring curated drawing atriums, each zone balances refined minimalism with intimate tactile comfort.'
     },
     {
       id: 'thrdspace-studio',
-      title: 'Thrdspace Studio',
+      title: 'Thrdspac',
       category: 'commercial',
-      categoryLabel: 'Architecture & Creative Studio',
-      area: '540 Sq.Ft',
-      client: 'Thrdspace',
-      location: 'Jubilee hills, Hyderabad, India',
+      categoryLabel: 'Commercial / Retail',
+      area: '600 Sq.Ft',
+      client: 'Mrs. Niharika Gollapalli',
+      location: 'Jubilee hills, Hyderabad',
       leadImage: 'ThrdspaceStudio/thrdspace1.jpeg',
       galleryImages: [
         'ThrdspaceStudio/View 01.jpeg',
@@ -123,7 +123,7 @@ function initApp() {
         'ThrdspaceStudio/View 19.jpeg',
         'ThrdspaceStudio/View 20.jpeg'
       ],
-      description: 'Designed for Thrdspace, this architectural pavilion masterfully balances monolithic volume, carved daylight portals, and earthy textural materiality. Seamlessly intertwining tranquil courtyard rock gardens with functional creative workstations, the studio celebrates intuitive craft, raw tranquility, and adaptability to contemporary collaborative life.'
+      description: 'An immersive olfactory space designed to explore the sensory world of fragrance through a rich, atmospheric interior.The design uses deep earthy tones, textured materials, curated display niches, and sculptural elements to create a warm and intimate experience.Thoughtfully layered lighting and spatial detailing enhance the sense of discovery, making the space feel both luxurious and experiential.'
     }
   ];
 
