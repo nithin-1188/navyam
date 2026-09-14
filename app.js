@@ -67,7 +67,7 @@ function initApp() {
       id: 'green-terraces-interiors',
       title: 'Green Terraces',
       category: 'residential',
-      categoryLabel: 'Residential Interiors',
+      categoryLabel: 'Renovation',
       area: '2500 Sq. Ft',
       client: 'Suhas D',
       location: 'Kondapur, Hyderabad',
@@ -90,7 +90,7 @@ function initApp() {
         'GreenTerraces/Jusu Room - View 2.png',
         'GreenTerraces/Jusu Room - View 3.png'
       ],
-      description: 'Green Terraces, Kondapur, Hyderabad, this bespoke residential interior seamlessly merges contemporary warmth, organic textures, and tailored spatial articulation. Featuring curated drawing atriums, each zone balances refined minimalism with intimate tactile comfort.'
+      description: 'Green Terraces, Kondapur, Hyderabad, this renovation interior project seamlessly merges contemporary warmth, organic textures, and tailored spatial articulation. Featuring curated drawing atriums, each zone balances refined minimalism with intimate tactile comfort.'
     },
     {
       id: 'thrdspace-studio',

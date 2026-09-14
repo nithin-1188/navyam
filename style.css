@@ -431,7 +431,7 @@ img {
 }
 
 .nav-info-block a:hover {
-  color: #FFFFFF;
+  color: #E4D6C5;
 }
 
 .nav-social-links {
@@ -448,7 +448,7 @@ img {
 }
 
 .nav-social-link:hover {
-  color: #FFFFFF;
+  color: #E4D6C5;
 }
 
 .nav-overlay-footer {
@@ -652,8 +652,8 @@ img {
 }
 
 .intro-explore-btn:hover {
-  background: #FFFFFF;
-  border-color: #FFFFFF;
+  background: #E4D6C5;
+  border-color: #E4D6C5;
   color: #984216;
   transform: translateY(-3px) scale(1.02);
   box-shadow: 0 15px 35px rgba(0, 255, 255, 0.35);
@@ -856,7 +856,7 @@ img {
 }
 
 .featured-project-item:hover .view-more-cta {
-  background: #FFFFFF;
+  background: #E4D6C5;
   color: #984216;
   transform: translateY(-2px);
 }
@@ -922,7 +922,7 @@ img {
 }
 
 .filter-chip:hover {
-  color: #FFFFFF;
+  color: #E4D6C5;
   border-color: #8ae1e8;
 }
 
@@ -1097,7 +1097,7 @@ img {
 }
 
 .modal-close-trigger:hover {
-  background: #FFFFFF;
+  background: #E4D6C5;
   color: #984216;
   transform: rotate(90deg);
 }
@@ -1287,7 +1287,7 @@ img {
   right: 2rem;
   background: rgba(255, 255, 255, 0.08);
   border: 1px solid rgba(255, 255, 255, 0.2);
-  color: #ffffff;
+  color: #E4D6C5;
   font-size: 2rem;
   line-height: 1;
   width: 48px;
@@ -1312,7 +1312,7 @@ img {
   transform: translateY(-50%);
   background: rgba(255, 255, 255, 0.08);
   border: 1px solid rgba(255, 255, 255, 0.2);
-  color: #ffffff;
+  color: #E4D6C5;
   font-size: 1.5rem;
   width: 52px;
   height: 52px;
@@ -1387,7 +1387,7 @@ img {
 }
 
 .modal-nav-btn:hover {
-  color: #FFFFFF;
+  color: #E4D6C5;
 }
 
 /* ==========================================================================
@@ -1600,7 +1600,7 @@ img {
 }
 
 .team-contact-link:hover {
-  color: #FFFFFF;
+  color: #E4D6C5;
 }
 
 /* Careers / Jobs Section */
@@ -1651,7 +1651,7 @@ img {
 }
 
 .apply-btn:hover {
-  background: #FFFFFF;
+  background: #E4D6C5;
   color: #984216;
 }
 
@@ -1747,7 +1747,7 @@ img {
 }
 
 .contact-block a:hover {
-  color: #FFFFFF;
+  color: #E4D6C5;
 }
 
 .contact-form-col {
@@ -1841,8 +1841,8 @@ img {
 }
 
 .form-submit-btn:hover {
-  background: #FFFFFF;
-  border-color: #FFFFFF;
+  background: #E4D6C5;
+  border-color: #E4D6C5;
   color: #984216;
   transform: translateY(-2px);
 }
