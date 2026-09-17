@@ -528,6 +528,14 @@ img {
   margin-bottom: 2rem;
 }
 
+.intro-logo-mark {
+  width: clamp(52px, 6vw, 76px);
+  height: auto;
+  object-fit: contain;
+  margin-bottom: 1.2rem;
+  display: block;
+}
+
 /* Brand Logo Mark Accents Across Pages */
 .hero-brand-badge-row {
   display: flex;
