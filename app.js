@@ -17,9 +17,9 @@ function initApp() {
       id: 'the-soul-foods',
       title: 'The Soul Foods',
       category: 'commercial',
-      categoryLabel: 'Commercials',
+      categoryLabel: 'Commercial/Retail',
       area: '2000 Sq.Ft',
-      client: 'The Soul Foods',
+      client: 'Preetham Kantala, Varun Reddy',
       location: 'Nagole, Hyderabad',
       leadImage: 'SoulFoods/soulfoods1.png',
       galleryImages: [
@@ -32,16 +32,17 @@ function initApp() {
         'SoulFoods/Scene 17.png',
         'SoulFoods/Scene 20.png',
         'SoulFoods/Scene 21.png',
-        'SoulFoods/Scene 23.png'
+        'SoulFoods/Scene 23.png',
+        'SoulFoods/newsoul.jpeg'
       ],
-      description: 'Conceived for The Soul Foods in Nagole, Hyderabad, this 1,810 Sq.Ft retail space merges natural earthy materiality with intuitive spatial flow. The project features handcrafted textures, ambient lighting, and adaptable seating zones tailored for immersive gastronomy and retail presence.'
+      description: 'Conceived for The Soul Foods in Nagole, Hyderabad, this 2000 Sq.Ft retail space merges natural earthy materiality with intuitive spatial flow. The project features handcrafted textures, ambient lighting, and adaptable seating zones tailored for immersive gastronomy and retail presence.'
     },
     {
       id: 'residential-green-building',
       title: 'Vega Charge',
       category: 'commercial',
       categoryLabel: 'Commercial / Retail ',
-      area: '19800 Sq.Ft',
+      area: '2200 Sq.Yd',
       client: 'Abhilash Gali, Pretham Kantala',
       location: 'Narketpally, Telangana',
       leadImage: 'vega.png',
@@ -69,7 +70,7 @@ function initApp() {
       category: 'residential',
       categoryLabel: 'Renovation',
       area: '2500 Sq. Ft',
-      client: 'Suhas D',
+      client: 'Suhaas D',
       location: 'Kondapur, Hyderabad',
       leadImage: 'GreenTerraces/greenterraces1.png',
       galleryImages: [
@@ -79,7 +80,6 @@ function initApp() {
         'GreenTerraces/Living Room - View 1.png',
         'GreenTerraces/Living Room - View 2.png',
         'GreenTerraces/Living Room - View 3.png',
-        'GreenTerraces/Dining - View 1.png',
         'GreenTerraces/Dining - View 2.png',
         'GreenTerraces/M.Bed Room - View 1.png',
         'GreenTerraces/M.Bed Room - View 2.png',
@@ -87,7 +87,6 @@ function initApp() {
         'GreenTerraces/G.Bed Room - View 1.png',
         'GreenTerraces/G.Bed Room - View 2.png',
         'GreenTerraces/Jusu Room - View 1.png',
-        'GreenTerraces/Jusu Room - View 2.png',
         'GreenTerraces/Jusu Room - View 3.png'
       ],
       description: 'Green Terraces, Kondapur, Hyderabad, this renovation interior project seamlessly merges contemporary warmth, organic textures, and tailored spatial articulation. Featuring curated drawing atriums, each zone balances refined minimalism with intimate tactile comfort.'
