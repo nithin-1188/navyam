@@ -27,5 +27,5 @@ npm run dev
 - `SoulFoods/` - Assets for The Soul Foods retail project
 - `Vega/` - Assets for Vega Charge sustainable villa compound
 - `GreenTerraces/` - Assets for Green Terraces luxury residence interiors
-- `ThrdspaceStudio/` - Assets for Thrdspace Studio creative pavilion
+- `ThrdspaceStudio/` - Assets for Prsnt Stuatn creative pavilion
 - `studio-hero.jpg` - High-res studio atelier banner

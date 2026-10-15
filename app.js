@@ -92,8 +92,8 @@ function initApp() {
       description: 'Green Terraces, Kondapur, Hyderabad, this renovation interior project seamlessly merges contemporary warmth, organic textures, and tailored spatial articulation. Featuring curated drawing atriums, each zone balances refined minimalism with intimate tactile comfort.'
     },
     {
-      id: 'thrdspace-studio',
-      title: 'Thrdspac',
+      id: 'prsnt-stuatn',
+      title: 'Prsnt Stuatn',
       category: 'commercial',
       categoryLabel: 'Commercial / Retail',
       area: '600 Sq.Ft',
@@ -379,8 +379,10 @@ function initApp() {
       return pId === clean || pId === slug || pSlug === slug ||
         (clean === 'soul-foods' && p.id === 'the-soul-foods') ||
         (clean === 'green-terraces' && p.id === 'green-terraces-interiors') ||
-        (clean === 'thrdspace' && p.id === 'thrdspace-studio') ||
-        (clean === 'thrdspac' && p.id === 'thrdspace-studio') ||
+        (clean === 'thrdspace' && (p.id === 'prsnt-stuatn' || p.id === 'thrdspace-studio')) ||
+        (clean === 'thrdspac' && (p.id === 'prsnt-stuatn' || p.id === 'thrdspace-studio')) ||
+        (clean === 'thrdspace-studio' && (p.id === 'prsnt-stuatn' || p.id === 'thrdspace-studio')) ||
+        (clean === 'prsnt-stuatn' && (p.id === 'prsnt-stuatn' || p.id === 'thrdspace-studio')) ||
         (clean === 'vega' && p.id === 'residential-green-building');
     });
     if (index === -1) return;
